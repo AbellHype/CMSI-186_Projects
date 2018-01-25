@@ -153,7 +153,7 @@ public class CalendarStuff {
    *         be decremented to make the appropriate index value
    */
    public static boolean isValidDate( long month, long day, long year ) {
-      if ( month > 12 || month < 1 || day <= 0 ){
+      if ( month > 12 || month < 1 || day <= 0 || year <= 0 ){
          return false;
       }
       if ( month == 2 && day == 29 && isLeapYear(year) ){
@@ -188,6 +188,29 @@ public class CalendarStuff {
       }
    }
 
+  public static long yearsToDays( long year ) {
+      long days = 0;
+      for ( long i = (year - 1); i > 0; i-- ) {
+         if ( isLeapYear( (i) ) ){
+            days = days + 366;
+         } else {
+            days = days + 365;
+         }
+      }
+      return days;
+  }
+
+  public static long monthToDays ( long year, long month) {
+      long days = 0;
+      if ( isLeapYear(year) && month > 2 ){
+         days++;
+      }
+      for ( long i = ( month - 2 ); i >= 0; i-- ) {
+         days = days + (long)(CalendarStuff.days[(int)(i)]);
+      }
+      return days;
+  }
+
   /**
    * A method to return a count of the total number of days between two valid dates
    * @param    month1 long   containing month number, starting with "1" for "January"
@@ -199,8 +222,9 @@ public class CalendarStuff {
    * @return          long   count of total number of days
    */
    public static long daysBetween( long month1, long day1, long year1, long month2, long day2, long year2 ) {
-      long dayCount = 0;
-      return dayCount;
+      long days1 = CalendarStuff.yearsToDays( year1 ) + CalendarStuff.monthToDays( year1, month1 ) + day1;
+      long days2 = CalendarStuff.yearsToDays( year2 ) + CalendarStuff.monthToDays( year2, month2 ) + day2;
+      return Math.abs( days1 - days2 );
    }
 
 }
