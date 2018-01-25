@@ -53,16 +53,16 @@ public class CalendarStuff {
    */
    private static final int JANUARY    = 0;
    private static final int FEBRUARY   = JANUARY   + 1;
-   private static final int MARCH      = FEBRUARY   + 1;
-   private static final int APRIL      = MARCH   + 1;
-   private static final int MAY        = APRIL   + 1;
-   private static final int JUNE       = MAY   + 1;
-   private static final int JULY       = JUNE   + 1;
-   private static final int AUGUST     = JULY   + 1;
-   private static final int SEPTEMBER  = AUGUST   + 1;
-   private static final int OCTOBER    = SEPTEMBER   + 1;
+   private static final int MARCH      = FEBRUARY  + 1;
+   private static final int APRIL      = MARCH     + 1;
+   private static final int MAY        = APRIL     + 1;
+   private static final int JUNE       = MAY       + 1;
+   private static final int JULY       = JUNE      + 1;
+   private static final int AUGUST     = JULY      + 1;
+   private static final int SEPTEMBER  = AUGUST    + 1;
+   private static final int OCTOBER    = SEPTEMBER + 1;
    private static final int NOVEMBER   = OCTOBER   + 1;
-   private static final int DECEMBER   = NOVEMBER   + 1;
+   private static final int DECEMBER   = NOVEMBER  + 1;
   
   /**
    * An array containing the number of days in each month
@@ -86,13 +86,13 @@ public class CalendarStuff {
    */
    public static boolean isLeapYear( long year ) {
       if ( year % 4 == 0) {
-      	if ( year % 100 == 0 && year % 400 != 0 ) {
-      		return false;
-      	} else {
-      		return true;
-      	}
+         if ( year % 100 == 0 && year % 400 != 0 ) {
+            return false;
+         } else {
+            return true;
+         }
       } else {
-      	return false;
+         return false;
       }
    }
 
@@ -105,7 +105,14 @@ public class CalendarStuff {
    *         be decremented to make the appropriate index value
    */
    public static long daysInMonth( long month, long year ) {
-      return 33;  // replace this with the actual code
+      int daysnum = 0;
+      if ( isLeapYear(year) && month == 2){
+         daysnum = 29;
+      } else {
+         daysnum = CalendarStuff.days[ (int)(-- month) ];
+      }
+
+      return daysnum;
    }
 
   /**
@@ -146,7 +153,17 @@ public class CalendarStuff {
    *         be decremented to make the appropriate index value
    */
    public static boolean isValidDate( long month, long day, long year ) {
-      return true;  // replace this with the actual code
+      if ( month > 12 || month < 1 || day <= 0 ){
+         return false;
+      }
+      if ( month == 2 && day == 29 && isLeapYear(year) ){
+         return true;
+      }
+      if ( (day) <= CalendarStuff.days[(int)(--month)] ){
+         return true;
+      } else{
+         return false;
+      }
    }
 
   /**
