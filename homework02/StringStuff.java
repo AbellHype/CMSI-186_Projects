@@ -24,6 +24,8 @@ import java.util.LinkedHashSet;
 
 public class StringStuff {
 
+   private static String alphabet = " abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+
   /**
    * Method to determine if a string contains one of the vowels: A, E, I, O, U, and sometimes Y.
    * Both lower and upper case letters are handled.  In this case, the normal English rule for Y means
@@ -33,6 +35,12 @@ public class StringStuff {
    * @return  boolean which is true if there is a vowel, or false otherwise
    */
    public static boolean containsVowel( String s ) {
+      String vowels = "AEIOUYaeiouy";
+      for (int i = 0; i < s.length(); i++){
+         if (vowels.indexOf(s.charAt(i)) != -1){
+            return true;
+         }
+      }
       return false;
    }
 
@@ -45,7 +53,10 @@ public class StringStuff {
    * @return  boolean which is true if this a palindrome, or false otherwise
    */
    public static boolean isPalindrome( String s ) {
-      return true;
+      if (StringStuff.reverse(s).equals(s)){
+         return true;
+      }
+      return false;
    }
 
   /**
@@ -57,7 +68,13 @@ public class StringStuff {
    * @return  String containing the &quot;even&quot; letters from the input
    */
    public static String evensOnly( String s ) {
-      return new String( "HJHJHJ" );
+      String ans = "";
+      for (int i = 0; i < s.length(); i++){
+         if (StringStuff.alphabet.indexOf(s.charAt(i)) % 2 == 0){
+            ans = ans + s.charAt(i);
+         }
+      }
+      return ans;  
    }
 
   /**
@@ -69,7 +86,13 @@ public class StringStuff {
    * @return  String containing the &quot;odd&quot; letters from the input
    */
    public static String oddsOnly( String s ) {
-      return new String( "IKIKIK" );
+      String ans = "";
+      for (int i = 0; i < s.length(); i++){
+         if (StringStuff.alphabet.indexOf(s.charAt(i)) % 2 == 1){
+            ans = ans + s.charAt(i);
+         }
+      }
+      return ans;
    }
 
   /**
@@ -101,7 +124,11 @@ public class StringStuff {
    * @return  String containing the reverse of the input string
    */
    public static String reverse( String s ) {
-      return new String( "kculc eht tahw" );
+      String ans = "";
+      for (int i = s.length() - 1; i >= 0; i--){
+         ans = ans + s.charAt(i);
+      }
+      return ans;
    }
 
   /**
