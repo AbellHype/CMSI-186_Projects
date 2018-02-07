@@ -95,6 +95,16 @@ public class StringStuff {
       return ans;
    }
 
+   public static String noDupes( String s ) {
+      String ans = "";
+      for (int i = 0; i < s.length(); i++){
+         if (ans.indexOf(s.charAt(i)) == -1){
+            ans = ans + s.charAt(i);
+         }
+      }
+      return ans;
+   }
+
   /**
    * Method to return the characters in a string that correspond to the &quot;EVEN&quot; index
    * numbers of the alphabet, but with no duplicate characters in the resulting string.
@@ -103,7 +113,7 @@ public class StringStuff {
    * @return  String containing the &quot;even&quot; letters from the input without duplicates
    */
    public static String evensOnlyNoDupes( String s ) {
-      return new String( "HJ" );
+      return StringStuff.evensOnly(StringStuff.noDupes(s));
    }
 
   /**
@@ -114,7 +124,7 @@ public class StringStuff {
    * @return  String containing the &quot;odd&quot; letters from the input without duplicates
    */
    public static String oddsOnlyNoDupes( String s ) {
-      return new String( "IK" );
+      return StringStuff.oddsOnly(StringStuff.noDupes(s));
    }
 
   /**
