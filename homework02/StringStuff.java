@@ -1,8 +1,8 @@
 /** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  *  File name     :  StringStuff.java
  *  Purpose       :  A file full of stuff to do with the Java String class
- *  Author        :  B.J. Johnson
- *  Date          :  2017-01-19
+ *  Author        :  B.J. Johnson and Matthew Abell
+ *  Date          :  2018-02-08
  *  Description   :  This file presents a bunch of String-style helper methods.  Although pretty much
  *                   any and every thing you'd want to do with Strings is already made for you in the
  *                   Jave String class, this exercise gives you a chance to do it yourself [DIY] for some
@@ -17,7 +17,7 @@
  *            Rev      Date     Modified by:  Reason for change/modification
  *           -----  ----------  ------------  -----------------------------------------------------------
  *  @version 1.0.0  2017-01-19  B.J. Johnson  Initial writing and release
- *  @version 1.1.0  2017-01-22  B.J. Johnson  Fill in methods to make the program actually work
+ *  @version 1.1.0  2018-02-08  Matthew Abell Filled in methods to make the program actually work
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 import java.util.Set;
 import java.util.LinkedHashSet;
@@ -95,6 +95,12 @@ public class StringStuff {
       return ans;
    }
 
+   /**
+   * Method that returns the inputted string with all duplicate characters removed
+   *
+   * @param s String containing data to have duplicates removed
+   * @return String containing inputed data minus duplicate characters
+   */
    public static String noDupes( String s ) {
       String ans = "";
       for (int i = 0; i < s.length(); i++){
