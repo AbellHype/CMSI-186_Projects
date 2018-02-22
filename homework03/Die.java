@@ -1,7 +1,7 @@
 /** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  *  File name     :  Die.java
  *  Purpose       :  Provides a class describing a single die that can be rolled
- *  @author       :  B.J. Johnson
+ *  @author       :  Matthew Abell
  *  Date          :  2017-02-06
  *  Description   :  This class provides the data fields and methods to describe a single game die.  A
  *                   die can have "N" sides.  Sides are randomly assigned sequential pip values, from 1
@@ -31,7 +31,7 @@
  *            Rev      Date     Modified by:  Reason for change/modification
  *           -----  ----------  ------------  -----------------------------------------------------------
  *  @version 1.0.0  2017-02-06  B.J. Johnson  Initial writing and release
- *  @version 1.1.0  2017-02-17  B.J. Johnson  Filled in method code
+ *  @version 1.1.0  2018-02-22  Matthew Abell Filled in method code
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 import java.util.Random;
 
@@ -114,6 +114,7 @@ public class Die {
    * A little test main to check things out
    */
    public static void main( String[] args ) {
+      Die test = new Die(7);
    }
 
 }
