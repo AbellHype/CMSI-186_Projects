@@ -2,11 +2,10 @@
  *  File name     :  ClockSolver.java
  *  Purpose       :  The main program for the ClockSolver class
  *  @see
- *  @author       :  B.J. Johnson
- *  Date written  :  2017-02-28
- *  Description   :  This class provides a bunch of methods which may be useful for the ClockSolver class
- *                   for Homework 4, part 1.  Includes the following:
-  *
+ *  @author       :  Matthew Abell
+ *  Date written  :  2018-03-13
+ *  Description   :  This class finds the time values at the inputteed angles
+ *
  *  Notes         :  None right now.  I'll add some as they occur.
  *  Warnings      :  None
  *  Exceptions    :  IllegalArgumentException when the input arguments are "hinky"
@@ -16,6 +15,7 @@
  *            Rev      Date     Modified by:  Reason for change/modification
  *           -----  ----------  ------------  -----------------------------------------------------------
  *  @version 1.0.0  2017-02-28  B.J. Johnson  Initial writing and release
+ *  @version 1.1.0  2018-03-13  Matthew Abell Working release
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
 public class ClockSolver {
@@ -80,7 +80,7 @@ public class ClockSolver {
       cse.handleInitialArguments( args );
       Clock clock = new Clock(angleDif,timeSlice);
       System.out.println("Looking for time when the angle between the hands is " + args[0] + " degrees.");
-      System.out.println("Epsilon value is .1, tick length is " + args[1] + " seconds.");
+      System.out.println("Epsilon value is .1, tick length is " + Double.toString(timeSlice) + " seconds.");
       while( clock.getTotalSeconds() < 43200 ) {
          if (Math.abs(clock.getHandAngle() - angleDif) < .1){
             System.out.println(clock.toString());
