@@ -1,0 +1,236 @@
+.
+.
+successful compilation
+.
+.
+
+CLOCK CLASS TESTER PROGRAM
+--------------------------
+
+  Creating a new clock: 
+    New clock created: Time: 0:0:0.0
+    Testing validateAngleArg()....
+      sending '  0 degrees', expecting double value   0.0Hello world, from the ClockSolver program!!
+
+
+   Sorry you must enter one or two inputs
+   Usage: java ClockSolver <angle> [timeSlice]
+   Please try again...........
+Hello world, from the ClockSolver program!!
+
+
+Invalid angle input, please input a value in degrees between 0 and 360 degrees.
+Hello world, from the ClockSolver program!!
+
+
+Invalid angle input, please input a value in degrees between 0 and 360 degrees.
+Hello world, from the ClockSolver program!!
+
+
+Invalid time slice input, please input a value in seconds between 0 and 1800 seconds.
+Hello world, from the ClockSolver program!!
+
+
+Invalid angle input, please input a value in degrees between 0 and 360 degrees.
+Hello world, from the ClockSolver program!!
+
+
+Invalid time slice input, please input a value in seconds between 0 and 1800 seconds.
+Hello world, from the ClockSolver program!!
+
+
+Not a valid input, please input a double
+Hello world, from the ClockSolver program!!
+
+
+Looking for time when the angle between the hands is 30.0 degrees.
+Epsilon value is .1, tick length is 60.0 seconds.
+Time: 1:0:0.0
+Time: 7:0:0.0
+Hello world, from the ClockSolver program!!
+
+
+Looking for time when the angle between the hands is 30.0 degrees.
+Epsilon value is .1, tick length is 10.0 seconds.
+Time: 0:38:10.0
+Time: 1:0:0.0
+Time: 3:21:50.0
+Time: 5:21:50.0
+Time: 6:38:10.0
+Time: 7:0:0.0
+Time: 8:38:10.0
+Time: 11:21:50.0
+Hello world, from the ClockSolver program!!
+
+
+Looking for time when the angle between the hands is 30.0 degrees.
+Epsilon value is .1, tick length is 1.0 seconds.
+Time: 0:5:27.0
+Time: 0:5:28.0
+Time: 0:38:10.0
+Time: 0:38:11.0
+Time: 1:0:0.0
+Time: 1:0:1.0
+Time: 1:10:54.0
+Time: 1:10:55.0
+Time: 1:43:38.0
+Time: 1:43:39.0
+Time: 2:5:27.0
+Time: 2:5:28.0
+Time: 2:16:21.0
+Time: 2:16:22.0
+Time: 2:49:5.0
+Time: 2:49:6.0
+Time: 3:10:54.0
+Time: 3:10:55.0
+Time: 3:21:49.0
+Time: 3:21:50.0
+Time: 3:54:32.0
+Time: 3:54:33.0
+Time: 4:16:21.0
+Time: 4:16:22.0
+Time: 4:27:16.0
+Time: 4:27:17.0
+Time: 4:59:59.0
+Time: 5:21:48.0
+Time: 5:21:49.0
+Time: 5:21:50.0
+Time: 5:32:43.0
+Time: 5:32:44.0
+Time: 6:27:16.0
+Time: 6:27:17.0
+Time: 6:38:10.0
+Time: 6:38:11.0
+Time: 7:0:0.0
+Time: 7:0:1.0
+Time: 7:32:43.0
+Time: 7:32:44.0
+Time: 7:43:38.0
+Time: 7:43:39.0
+Time: 8:5:27.0
+Time: 8:5:28.0
+Time: 8:38:10.0
+Time: 8:38:11.0
+Time: 8:49:5.0
+Time: 8:49:6.0
+Time: 9:10:54.0
+Time: 9:10:55.0
+Time: 9:43:38.0
+Time: 9:43:39.0
+Time: 9:54:32.0
+Time: 9:54:33.0
+Time: 10:16:21.0
+Time: 10:16:22.0
+Time: 10:49:5.0
+Time: 10:49:6.0
+Time: 10:59:59.0
+Time: 11:21:48.0
+Time: 11:21:49.0
+Time: 11:21:50.0
+Time: 11:54:32.0
+Time: 11:54:33.0
+Hello world, from the ClockSolver program!!
+
+
+Looking for time when the angle between the hands is 75.23 degrees.
+Epsilon value is .1, tick length is 60.0 seconds.
+Hello world, from the ClockSolver program!!
+
+
+Looking for time when the angle between the hands is 75.23 degrees.
+Epsilon value is .1, tick length is 7.0 seconds.
+Time: 3:2:42.0
+Time: 4:8:9.0
+Time: 5:13:36.0
+Time: 6:19:3.0
+Time: 7:24:30.0
+Time: 8:29:57.0
+Time: 9:35:24.0
+Time: 10:40:51.0
+Hello world, from the ClockSolver program!!
+
+
+Looking for time when the angle between the hands is 75.23 degrees.
+Epsilon value is .1, tick length is 1.3 seconds.
+Time: 0:13:40.29
+Time: 0:13:41.59
+Time: 0:46:23.3
+Time: 0:46:24.6
+Time: 1:19:7.6
+Time: 1:19:8.9
+Time: 1:51:50.6
+Time: 1:51:51.9
+Time: 2:24:34.9
+Time: 2:24:36.2
+Time: 2:57:17.89
+Time: 2:57:19.19
+Time: 3:2:40.29
+Time: 3:2:41.59
+Time: 3:30:2.19
+Time: 3:30:3.49
+Time: 4:8:7.59
+Time: 4:8:8.89
+Time: 4:35:29.49
+Time: 4:35:30.79
+Time: 5:13:34.89
+Time: 5:13:36.19
+Time: 5:40:56.79
+Time: 5:40:58.09
+Time: 6:19:2.19
+Time: 6:19:3.49
+Time: 6:46:24.09
+Time: 6:46:25.39
+Time: 7:24:29.49
+Time: 7:24:30.79
+Time: 7:51:51.39
+Time: 8:29:56.79
+Time: 8:29:58.09
+Time: 8:57:18.69
+Time: 9:2:41.09
+Time: 9:35:24.09
+Time: 9:35:25.39
+Time: 10:8:8.39
+Time: 10:40:51.39
+Time: 10:40:52.69
+Time: 11:13:35.7
+Time: 11:46:18.7
+Time: 11:46:20.0
+Hello world, from the ClockSolver program!!
+
+
+Looking for time when the angle between the hands is 90.0 degrees.
+Epsilon value is .1, tick length is 2.5 seconds.
+Time: 0:16:22.5
+Time: 0:49:5.0
+Time: 1:21:50.0
+Time: 1:54:32.5
+Time: 3:0:0.0
+Time: 4:5:27.5
+Time: 4:38:10.0
+Time: 5:10:55.0
+Time: 5:43:37.5
+Time: 6:16:22.5
+Time: 6:49:5.0
+Time: 7:21:50.0
+Time: 7:54:32.5
+Time: 9:0:0.0
+Time: 10:5:27.5
+Time: 10:38:10.0
+Time: 11:10:55.0
+Time: 11:43:37.5
+Hello world, from the ClockSolver program!!
+
+
+Looking for time when the angle between the hands is 180.0 degrees.
+Epsilon value is .1, tick length is 1.8 seconds.
+Time: 2:43:37.19
+Time: 3:49:4.79
+Time: 4:54:32.39
+Time: 5:59:59.99
+Time: 7:5:27.59
+Time: 8:10:55.19
+Time: 9:16:22.79
+Hello world, from the ClockSolver program!!
+
+
+Invalid time slice input, please input a value in seconds between 0 and 1800 seconds.
