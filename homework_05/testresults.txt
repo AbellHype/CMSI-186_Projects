@@ -1,0 +1,8090 @@
+.
+.
+======================================
+... Testing Ball class ...
+======================================
+.
+.
+.
+.
+======================================
+... Testing Timer class ...
+======================================
+.
+.
+======================================
+... Testing SoccerSim no args...
+======================================
+Please enter a valid input. Follow this template for every ball: [xpos][ypos][xvel][yvel]
+.
+.
+======================================
+... Testing SoccerSim one arg...
+======================================
+Please enter a valid input. Follow this template for every ball: [xpos][ypos][xvel][yvel]
+.
+.
+======================================
+... Testing SoccerSim two args...
+======================================
+Please enter a valid input. Follow this template for every ball: [xpos][ypos][xvel][yvel]
+.
+.
+======================================
+... Testing SoccerSim three args...
+======================================
+Please enter a valid input. Follow this template for every ball: [xpos][ypos][xvel][yvel]
+.
+.
+======================================
+... Testing SoccerSim six args...
+======================================
+Please enter a valid input. Follow this template for every ball: [xpos][ypos][xvel][yvel]
+.
+.
+======================================
+... Testing SoccerSim out of bounds...
+======================================
+Time: 0:0:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+No collision is possible
+.
+.
+======================================
+... Testing SoccerSim negative time slice...
+======================================
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 5.00,5.00
+Pole Position: 50.00,50.00
+
+Time: -1:-1:-1.0
+Ball 1 Position: 5.00,5.00 Velocity: 5.05,5.05
+Pole Position: 50.00,50.00
+
+Time: -1:-1:-2.0
+Ball 1 Position: -.05,-.05 Velocity: 5.10,5.10
+Pole Position: 50.00,50.00
+
+Time: -1:-1:-3.0
+Ball 1 Position: -5.15,-5.15 Velocity: 5.15,5.15
+Pole Position: 50.00,50.00
+
+Time: -1:-1:-4.0
+Ball 1 Position: -10.30,-10.30 Velocity: 5.20,5.20
+Pole Position: 50.00,50.00
+
+Time: -1:-1:-5.0
+Ball 1 Position: -15.51,-15.51 Velocity: 5.26,5.26
+Pole Position: 50.00,50.00
+
+Time: -1:-1:-6.0
+Ball 1 Position: -20.76,-20.76 Velocity: 5.31,5.31
+Pole Position: 50.00,50.00
+
+Time: -1:-1:-7.0
+Ball 1 Position: -26.07,-26.07 Velocity: 5.36,5.36
+Pole Position: 50.00,50.00
+
+Time: -1:-1:-8.0
+Ball 1 Position: -31.43,-31.43 Velocity: 5.41,5.41
+Pole Position: 50.00,50.00
+
+Time: -1:-1:-9.0
+Ball 1 Position: -36.84,-36.84 Velocity: 5.47,5.47
+Pole Position: 50.00,50.00
+
+Time: -1:-1:-10.0
+Ball 1 Position: -42.31,-42.31 Velocity: 5.52,5.52
+Pole Position: 50.00,50.00
+
+Time: -1:-1:-11.0
+Ball 1 Position: -47.83,-47.83 Velocity: 5.58,5.58
+Pole Position: 50.00,50.00
+
+Time: -1:-1:-12.0
+Ball 1 Position: -53.41,-53.41 Velocity: 5.63,5.63
+Pole Position: 50.00,50.00
+
+Time: -1:-1:-13.0
+Ball 1 Position: -59.05,-59.05 Velocity: 5.69,5.69
+Pole Position: 50.00,50.00
+
+caused an infinite loop
+
+.
+.
+======================================
+... Testing SoccerSim time slice too large...
+======================================
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 5.00,5.00
+Pole Position: 50.00,50.00
+
+Time: 0:30:0.09
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 1:0:0.19
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 1:30:0.29
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 2:0:0.39
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 2:30:0.5
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 3:0:0.6
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 3:30:0.7
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 4:0:0.8
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 4:30:0.9
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 5:0:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 5:30:1.09
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 6:0:1.19
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 6:30:1.29
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 7:0:1.39
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 7:30:1.49
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 8:0:1.59
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 8:30:1.69
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 9:0:1.79
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 9:30:1.89
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 10:0:1.99
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 10:30:2.09
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 11:0:2.19
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 11:30:2.29
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 12:0:2.39
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 12:30:2.49
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 13:0:2.59
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 13:30:2.69
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 14:0:2.79
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 14:30:2.89
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 15:0:2.99
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 15:30:3.09
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 16:0:3.19
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 16:30:3.29
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 17:0:3.39
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 17:30:3.49
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 18:0:3.59
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 18:30:3.69
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 19:0:3.79
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 19:30:3.89
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 20:0:3.99
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 20:30:4.09
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 21:0:4.19
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 21:30:4.3
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 22:0:4.4
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 22:30:4.5
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 23:0:4.6
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 23:30:4.7
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 24:0:4.8
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 24:30:4.9
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 25:0:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 25:30:5.1
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 26:0:5.2
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 26:30:5.3
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 27:0:5.4
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 27:30:5.5
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 28:0:5.6
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 28:30:5.7
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 29:0:5.8
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 29:30:5.9
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 30:0:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 30:30:6.1
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 31:0:6.2
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 31:30:6.3
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 32:0:6.4
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 32:30:6.5
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 33:0:6.6
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 33:30:6.7
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 34:0:6.8
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 34:30:6.9
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 35:0:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 35:30:7.1
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 36:0:7.2
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 36:30:7.3
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 37:0:7.4
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 37:30:7.5
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 38:0:7.6
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 38:30:7.7
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 39:0:7.8
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 39:30:7.9
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 40:0:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 40:30:8.1
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 41:0:8.2
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 41:30:8.3
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 42:0:8.4
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 42:30:8.5
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 43:0:8.6
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 43:30:8.7
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 44:0:8.8
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 44:30:8.9
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 45:0:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 45:30:9.1
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 46:0:9.2
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 46:30:9.3
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 47:0:9.4
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 47:30:9.5
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 48:0:9.6
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 48:30:9.7
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 49:0:9.8
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 49:30:9.9
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 50:0:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 50:30:10.1
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 51:0:10.2
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 51:30:10.3
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 52:0:10.4
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 52:30:10.5
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 53:0:10.6
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 53:30:10.7
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 54:0:10.8
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 54:30:10.9
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 55:0:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 55:30:11.1
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 56:0:11.2
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 56:30:11.3
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 57:0:11.4
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 57:30:11.5
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 58:0:11.6
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 58:30:11.7
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 59:0:11.8
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 59:30:11.9
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 60:0:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 60:30:12.1
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 61:0:12.2
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 61:30:12.3
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 62:0:12.4
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 62:30:12.5
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 63:0:12.6
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 63:30:12.7
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 64:0:12.8
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 64:30:12.9
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 65:0:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 65:30:13.1
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 66:0:13.2
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 66:30:13.3
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 67:0:13.4
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 67:30:13.5
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 68:0:13.6
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 68:30:13.7
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 69:0:13.8
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 69:30:13.9
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 70:0:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 70:30:14.1
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 71:0:14.2
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 71:30:14.3
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 72:0:14.4
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 72:30:14.5
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 73:0:14.6
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 73:30:14.7
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 74:0:14.8
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 74:30:14.9
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 75:0:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 75:30:15.1
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 76:0:15.2
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 76:30:15.3
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 77:0:15.4
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 77:30:15.5
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 78:0:15.6
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 78:30:15.7
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 79:0:15.8
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 79:30:15.9
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 80:0:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 80:30:16.1
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 81:0:16.2
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 81:30:16.3
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 82:0:16.4
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 82:30:16.5
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 83:0:16.6
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 83:30:16.7
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 84:0:16.8
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 84:30:16.9
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 85:0:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 85:30:17.09
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 86:0:17.19
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 86:30:17.29
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 87:0:17.39
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 87:30:17.49
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 88:0:17.59
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 88:30:17.69
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 89:0:17.79
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 89:30:17.89
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 90:0:17.99
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 90:30:18.09
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 91:0:18.19
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 91:30:18.29
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 92:0:18.39
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 92:30:18.49
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 93:0:18.59
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 93:30:18.69
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 94:0:18.79
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 94:30:18.89
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 95:0:18.99
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 95:30:19.09
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 96:0:19.19
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 96:30:19.29
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 97:0:19.39
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 97:30:19.49
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 98:0:19.59
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 98:30:19.69
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 99:0:19.79
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 99:30:19.89
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 100:0:19.99
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 100:30:20.09
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 101:0:20.19
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 101:30:20.29
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 102:0:20.39
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 102:30:20.49
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 103:0:20.59
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 103:30:20.69
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 104:0:20.79
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 104:30:20.89
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 105:0:20.99
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 105:30:21.09
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 106:0:21.19
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 106:30:21.29
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 107:0:21.39
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 107:30:21.49
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 108:0:21.59
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 108:30:21.69
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 109:0:21.79
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 109:30:21.89
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 110:0:21.99
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 110:30:22.09
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 111:0:22.19
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 111:30:22.29
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 112:0:22.39
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 112:30:22.49
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 113:0:22.59
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 113:30:22.69
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 114:0:22.79
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 114:30:22.89
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 115:0:22.99
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 115:30:23.09
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 116:0:23.19
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 116:30:23.29
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 117:0:23.39
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 117:30:23.49
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 118:0:23.59
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 118:30:23.69
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 119:0:23.79
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 119:30:23.89
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 120:0:23.99
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 120:30:24.09
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 121:0:24.19
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 121:30:24.29
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 122:0:24.39
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 122:30:24.49
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 123:0:24.59
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 123:30:24.69
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 124:0:24.79
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 124:30:24.89
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 125:0:24.99
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 125:30:25.09
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 126:0:25.19
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+No collision is possible
+
+.
+.
+======================================
+... Testing SoccerSim time slice value of zero...
+======================================
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 5.00,5.00
+Pole Position: 50.00,50.00
+
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 5.00,5.00
+Pole Position: 50.00,50.00
+
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 5.00,5.00
+Pole Position: 50.00,50.00
+
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 5.00,5.00
+Pole Position: 50.00,50.00
+
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 5.00,5.00
+Pole Position: 50.00,50.00
+
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 5.00,5.00
+Pole Position: 50.00,50.00
+
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 5.00,5.00
+Pole Position: 50.00,50.00
+
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 5.00,5.00
+Pole Position: 50.00,50.00
+
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 5.00,5.00
+Pole Position: 50.00,50.00
+
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 5.00,5.00
+Pole Position: 50.00,50.00
+
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 5.00,5.00
+Pole Position: 50.00,50.00
+
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 5.00,5.00
+Pole Position: 50.00,50.00
+
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 5.00,5.00
+Pole Position: 50.00,50.00
+
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 5.00,5.00
+Pole Position: 50.00,50.00
+
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 5.00,5.00
+Pole Position: 50.00,50.00
+
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 5.00,5.00
+Pole Position: 50.00,50.00
+
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 5.00,5.00
+Pole Position: 50.00,50.00
+
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 5.00,5.00
+Pole Position: 50.00,50.00
+
+Caused an infinite loop
+
+.                                       
+.                                       
+======================================  
+... Testing SoccerSim check for collision...
+======================================  
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 1.00,1.00
+Ball 2 Position: 20.00,20.00 Velocity: -1.00,-1.00
+Pole Position: 50.00,50.00
+
+Time: 0:0:1.0
+Ball 1 Position: 11.00,11.00 Velocity: .99,.99
+Ball 2 Position: 19.00,19.00 Velocity: -.99,-.99
+Pole Position: 50.00,50.00
+
+Time: 0:0:2.0
+Ball 1 Position: 11.99,11.99 Velocity: .98,.98
+Ball 2 Position: 18.01,18.01 Velocity: -.98,-.98
+Pole Position: 50.00,50.00
+
+Time: 0:0:3.0
+Ball 1 Position: 12.97,12.97 Velocity: .97,.97
+Ball 2 Position: 17.03,17.03 Velocity: -.97,-.97
+Pole Position: 50.00,50.00
+
+Time: 0:0:4.0
+Ball 1 Position: 13.94,13.94 Velocity: .96,.96
+Ball 2 Position: 16.06,16.06 Velocity: -.96,-.96
+Pole Position: 50.00,50.00
+
+Time: 0:0:5.0
+Ball 1 Position: 14.90,14.90 Velocity: .95,.95
+Ball 2 Position: 15.10,15.10 Velocity: -.95,-.95
+Pole Position: 50.00,50.00
+
+There was a collision between ball 1 and ball 2
+.                                       
+.                                       
+======================================  
+... Testing SoccerSim valid ball should come to rest...
+======================================  
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 1.00,1.00
+Pole Position: 50.00,50.00
+
+Time: 0:0:1.0
+Ball 1 Position: 11.00,11.00 Velocity: .99,.99
+Pole Position: 50.00,50.00
+
+Time: 0:0:2.0
+Ball 1 Position: 11.99,11.99 Velocity: .98,.98
+Pole Position: 50.00,50.00
+
+Time: 0:0:3.0
+Ball 1 Position: 12.97,12.97 Velocity: .97,.97
+Pole Position: 50.00,50.00
+
+Time: 0:0:4.0
+Ball 1 Position: 13.94,13.94 Velocity: .96,.96
+Pole Position: 50.00,50.00
+
+Time: 0:0:5.0
+Ball 1 Position: 14.90,14.90 Velocity: .95,.95
+Pole Position: 50.00,50.00
+
+Time: 0:0:6.0
+Ball 1 Position: 15.85,15.85 Velocity: .94,.94
+Pole Position: 50.00,50.00
+
+Time: 0:0:7.0
+Ball 1 Position: 16.79,16.79 Velocity: .93,.93
+Pole Position: 50.00,50.00
+
+Time: 0:0:8.0
+Ball 1 Position: 17.73,17.73 Velocity: .92,.92
+Pole Position: 50.00,50.00
+
+Time: 0:0:9.0
+Ball 1 Position: 18.65,18.65 Velocity: .91,.91
+Pole Position: 50.00,50.00
+
+Time: 0:0:10.0
+Ball 1 Position: 19.56,19.56 Velocity: .90,.90
+Pole Position: 50.00,50.00
+
+Time: 0:0:11.0
+Ball 1 Position: 20.47,20.47 Velocity: .90,.90
+Pole Position: 50.00,50.00
+
+Time: 0:0:12.0
+Ball 1 Position: 21.36,21.36 Velocity: .89,.89
+Pole Position: 50.00,50.00
+
+Time: 0:0:13.0
+Ball 1 Position: 22.25,22.25 Velocity: .88,.88
+Pole Position: 50.00,50.00
+
+Time: 0:0:14.0
+Ball 1 Position: 23.13,23.13 Velocity: .87,.87
+Pole Position: 50.00,50.00
+
+Time: 0:0:15.0
+Ball 1 Position: 23.99,23.99 Velocity: .86,.86
+Pole Position: 50.00,50.00
+
+Time: 0:0:16.0
+Ball 1 Position: 24.85,24.85 Velocity: .85,.85
+Pole Position: 50.00,50.00
+
+Time: 0:0:17.0
+Ball 1 Position: 25.71,25.71 Velocity: .84,.84
+Pole Position: 50.00,50.00
+
+Time: 0:0:18.0
+Ball 1 Position: 26.55,26.55 Velocity: .83,.83
+Pole Position: 50.00,50.00
+
+Time: 0:0:19.0
+Ball 1 Position: 27.38,27.38 Velocity: .83,.83
+Pole Position: 50.00,50.00
+
+Time: 0:0:20.0
+Ball 1 Position: 28.21,28.21 Velocity: .82,.82
+Pole Position: 50.00,50.00
+
+Time: 0:0:21.0
+Ball 1 Position: 29.03,29.03 Velocity: .81,.81
+Pole Position: 50.00,50.00
+
+Time: 0:0:22.0
+Ball 1 Position: 29.84,29.84 Velocity: .80,.80
+Pole Position: 50.00,50.00
+
+Time: 0:0:23.0
+Ball 1 Position: 30.64,30.64 Velocity: .79,.79
+Pole Position: 50.00,50.00
+
+Time: 0:0:24.0
+Ball 1 Position: 31.43,31.43 Velocity: .79,.79
+Pole Position: 50.00,50.00
+
+Time: 0:0:25.0
+Ball 1 Position: 32.22,32.22 Velocity: .78,.78
+Pole Position: 50.00,50.00
+
+Time: 0:0:26.0
+Ball 1 Position: 33.00,33.00 Velocity: .77,.77
+Pole Position: 50.00,50.00
+
+Time: 0:0:27.0
+Ball 1 Position: 33.77,33.77 Velocity: .76,.76
+Pole Position: 50.00,50.00
+
+Time: 0:0:28.0
+Ball 1 Position: 34.53,34.53 Velocity: .75,.75
+Pole Position: 50.00,50.00
+
+Time: 0:0:29.0
+Ball 1 Position: 35.28,35.28 Velocity: .75,.75
+Pole Position: 50.00,50.00
+
+Time: 0:0:30.0
+Ball 1 Position: 36.03,36.03 Velocity: .74,.74
+Pole Position: 50.00,50.00
+
+Time: 0:0:31.0
+Ball 1 Position: 36.77,36.77 Velocity: .73,.73
+Pole Position: 50.00,50.00
+
+Time: 0:0:32.0
+Ball 1 Position: 37.50,37.50 Velocity: .72,.72
+Pole Position: 50.00,50.00
+
+Time: 0:0:33.0
+Ball 1 Position: 38.23,38.23 Velocity: .72,.72
+Pole Position: 50.00,50.00
+
+Time: 0:0:34.0
+Ball 1 Position: 38.94,38.94 Velocity: .71,.71
+Pole Position: 50.00,50.00
+
+Time: 0:0:35.0
+Ball 1 Position: 39.66,39.66 Velocity: .70,.70
+Pole Position: 50.00,50.00
+
+Time: 0:0:36.0
+Ball 1 Position: 40.36,40.36 Velocity: .70,.70
+Pole Position: 50.00,50.00
+
+Time: 0:0:37.0
+Ball 1 Position: 41.06,41.06 Velocity: .69,.69
+Pole Position: 50.00,50.00
+
+Time: 0:0:38.0
+Ball 1 Position: 41.74,41.74 Velocity: .68,.68
+Pole Position: 50.00,50.00
+
+Time: 0:0:39.0
+Ball 1 Position: 42.43,42.43 Velocity: .68,.68
+Pole Position: 50.00,50.00
+
+Time: 0:0:40.0
+Ball 1 Position: 43.10,43.10 Velocity: .67,.67
+Pole Position: 50.00,50.00
+
+Time: 0:0:41.0
+Ball 1 Position: 43.77,43.77 Velocity: .66,.66
+Pole Position: 50.00,50.00
+
+Time: 0:0:42.0
+Ball 1 Position: 44.43,44.43 Velocity: .66,.66
+Pole Position: 50.00,50.00
+
+Time: 0:0:43.0
+Ball 1 Position: 45.09,45.09 Velocity: .65,.65
+Pole Position: 50.00,50.00
+
+Time: 0:0:44.0
+Ball 1 Position: 45.74,45.74 Velocity: .64,.64
+Pole Position: 50.00,50.00
+
+Time: 0:0:45.0
+Ball 1 Position: 46.38,46.38 Velocity: .64,.64
+Pole Position: 50.00,50.00
+
+Time: 0:0:46.0
+Ball 1 Position: 47.02,47.02 Velocity: .63,.63
+Pole Position: 50.00,50.00
+
+Time: 0:0:47.0
+Ball 1 Position: 47.65,47.65 Velocity: .62,.62
+Pole Position: 50.00,50.00
+
+Time: 0:0:48.0
+Ball 1 Position: 48.27,48.27 Velocity: .62,.62
+Pole Position: 50.00,50.00
+
+Time: 0:0:49.0
+Ball 1 Position: 48.89,48.89 Velocity: .61,.61
+Pole Position: 50.00,50.00
+
+Time: 0:0:50.0
+Ball 1 Position: 49.50,49.50 Velocity: .61,.61
+Pole Position: 50.00,50.00
+
+There was a collision between the pole and ball 1
+.                                       
+.                                       
+======================================  
+... Testing SoccerSim valid ball should go out of bounds...
+======================================  
+Time: 0:0:0.0
+Ball 1 Position: 10.00,10.00 Velocity: 1000.00,1000.00
+Pole Position: 50.00,50.00
+
+Time: 0:0:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:0:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:1:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:2:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:3:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:4:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:5:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:6:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:7:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:8:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:9:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:10:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:11:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:12:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:13:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:37.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:38.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:39.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:40.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:41.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:42.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:43.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:44.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:45.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:46.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:47.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:48.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:49.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:50.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:51.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:52.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:53.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:54.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:55.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:56.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:57.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:58.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:14:59.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:0.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:1.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:2.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:3.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:4.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:5.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:6.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:7.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:8.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:9.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:10.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:11.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:12.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:13.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:14.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:15.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:16.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:17.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:18.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:19.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:20.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:21.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:22.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:23.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:24.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:25.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:26.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:27.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:28.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:29.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:30.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:31.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:32.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:33.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:34.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:35.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+Time: 0:15:36.0
+Ball 1 is off the field
+Pole Position: 50.00,50.00
+
+No collision is possible
+.                                       
+.                                       
+======================================  
+... Testing SoccerSim valid ball set six balls subsecond time slice...
+======================================  
+Time: 0:0:0.0
+Ball 1 Position: 200.00,200.00 Velocity: 10.00,10.00
+Ball 2 Position: 100.00,100.00 Velocity: -100.00,-100.00
+Ball 3 Position: 150.00,150.00 Velocity: 200.00,200.00
+Ball 4 Position: 175.00,175.00 Velocity: -110.00,-110.00
+Ball 5 Position: 20.00,20.00 Velocity: 1.00,1.00
+Ball 6 Position: 50.00,50.00 Velocity: -5.00,-5.00
+Pole Position: 50.00,50.00
+
+The initial placements have a collision between the pole and ball 6
+.                                       
+.                                       
+======================================  
+... Testing SoccerSim valid ball set five balls 1.234 second time slice...
+======================================  
+Time: 0:0:0.0
+Ball 1 Position: 200.00,200.00 Velocity: 10.00,10.00
+Ball 2 Position: 100.00,100.00 Velocity: -100.00,-100.00
+Ball 3 Position: 175.00,175.00 Velocity: -110.00,-110.00
+Ball 4 Position: 20.00,20.00 Velocity: 1.00,1.00
+Ball 5 Position: 50.00,50.00 Velocity: -5.00,-5.00
+Pole Position: 50.00,50.00
+
+The initial placements have a collision between the pole and ball 5
+.                                       
+.                                       
+======================================  
+... Testing SoccerSim valid ball set ten balls 10 second time slice...
+======================================  
+Time: 0:0:0.0
+Ball 1 Position: 150.00,150.00 Velocity: 10.00,10.00
+Ball 2 Position: 100.00,100.00 Velocity: -100.00,-100.00
+Ball 3 Position: 200.00,200.00 Velocity: 200.00,200.00
+Ball 4 Position: 250.00,250.00 Velocity: -110.00,-110.00
+Ball 5 Position: 20.00,20.00 Velocity: 1.00,1.00
+Ball 6 Position: 50.00,50.00 Velocity: -5.00,-5.00
+Ball 7 Position: -100.00,-100.00 Velocity: 200.00,200.00
+Ball 8 Position: -200.00,-200.00 Velocity: 300.00,300.00
+Ball 9 Position: -110.00,-110.00 Velocity: 20.00,20.00
+Ball 10 Position: 1.00,1.00 Velocity: 50.00,50.00
+Pole Position: 50.00,50.00
+
+The initial placements have a collision between the pole and ball 6
+.                                       
+.                                       
+======================================  
+... End of SoccerSim Testing...         
+======================================  
