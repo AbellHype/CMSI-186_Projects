@@ -352,10 +352,14 @@ public class BrobInt {
    public BrobInt divide( BrobInt gint ) {
       BrobInt n = new BrobInt("0");
       BrobInt thisVal = new BrobInt(internalValue);
+      if(gint.toString() == ZERO.toString()){
+        System.out.println("You can't divide by 0");
+        System.exit(1);
+      }
       if(thisVal.compareTo(gint) < 0){
         return ZERO;
       }
-      while(thisVal.subtractByte(n.multiply(gint).divide(gint)) == ZERO){
+      while(!(thisVal.subtractByte(n.multiply(gint)).compareTo(gint) < 0)){
         n = n.addByte(ONE);
       }
       return n;
@@ -453,7 +457,7 @@ public class BrobInt {
       System.out.println( "\n  Hello, world, from the BrobInt program!!\n" );
       System.out.println( "\n   You should run your tests from the BrobIntTester...\n" );
       BrobInt x = new BrobInt("25");
-      BrobInt y = new BrobInt("10");
+      BrobInt y = new BrobInt("0");
       BrobInt z = x.divide(y);
       System.out.println(z.toString());
       System.exit( 0 );
