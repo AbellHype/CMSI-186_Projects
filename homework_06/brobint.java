@@ -23,7 +23,9 @@ import java.util.Arrays;
 
 public class BrobInt {
 
+  public static final BrobInt ZERO     = new BrobInt(  "0" );      /// Constant for "zero"
   public static final BrobInt ONE      = new BrobInt(  "1" );      /// Constant for "one"
+  public static final BrobInt TEN      = new BrobInt( "10" );      /// Constant for "ten"
 
   /// These are the internal fields
    private String internalValue = "";        // internal String representation of this BrobInt
@@ -100,6 +102,19 @@ public class BrobInt {
    *  @return BrobInt that is the sum of the value of this BrobInt and the one passed in
    *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
    public BrobInt addByte( BrobInt gint ) {
+      boolean isNeg = false;
+      if (gint.sign == 1 && sign == 1){
+        isNeg = true;
+      }
+      if (gint.sign == 1 && sign == 0){
+        BrobInt gint2 = new BrobInt(gint.toString().substring(1));
+        BrobInt thisVal = new BrobInt(internalValue);
+        return thisVal.subtractByte(gint2);
+      }
+      if (gint.sign == 0 && sign == 1){
+        BrobInt thisVal = new BrobInt(internalValue.substring(1));
+        return gint.subtractByte(thisVal);
+      }
       String ans = "";
       int carry = 0;
       int shortLength;
@@ -154,7 +169,9 @@ public class BrobInt {
               ans = "0" + Integer.toString(addRes) + ans;
             }
           }
-          carry = 0;
+        }
+        if(carry == 1){
+          ans = "1" + ans;
         }
       }
       else if(byteVersion.length == gint.byteVersion.length){
@@ -184,8 +201,13 @@ public class BrobInt {
               ans = "0" + Integer.toString(addRes) + ans;
             }
           }
-          carry = 0;
         }
+        if(carry == 1){
+          ans = "1" + ans;
+        }
+      }
+      if(isNeg){
+        ans = '-' + ans;
       }
       return new BrobInt(ans);
    }
@@ -196,6 +218,23 @@ public class BrobInt {
    *  @return BrobInt that is the difference of the value of this BrobInt and the one passed in
    *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
    public BrobInt subtractByte( BrobInt gint ) {
+      if(sign == 0 && gint.sign == 1){
+        BrobInt gint2 = new BrobInt(gint.internalValue.substring(1));
+        BrobInt thisVal = new BrobInt(internalValue);
+        return thisVal.addByte(gint2);
+      }
+      if(sign == 1 && gint.sign == 0){
+        BrobInt thisVal = new BrobInt(internalValue);
+        BrobInt gint2 = new BrobInt("-" + gint.internalValue);
+        return thisVal.addByte(gint2);
+      }
+      if(sign == 1 && gint.sign == 1){
+        BrobInt thisVal = new BrobInt(internalValue.substring(1));
+        BrobInt gint2 = new BrobInt(gint.internalValue.substring(1));
+        return gint2.subtractByte(thisVal);
+      }
+      boolean isNeg;
+      String strAns;
       String high;
       String low;
       BrobInt lessVal;
@@ -207,17 +246,19 @@ public class BrobInt {
         str1 = str1.substring(1);
       }
       String str2 = num2.toString();
-      while(str2.charAt(0) == '0'){
+      while(str2.charAt(0) == '0' && str2.length() > 1){
         str2 = str2.substring(1);
       }
       num1 = new BrobInt(str1);
       num2 = new BrobInt(str2);
       if(num1.compareTo(num2) > 0){
+        isNeg = false;
         high = num1.toString();
         low = num2.toString();
         lessVal = num2;
       }
       else{
+        isNeg = true;
         high = num2.toString();
         low = num1.toString();
         lessVal = num1;
@@ -226,15 +267,17 @@ public class BrobInt {
         ans = ans.addByte(ONE);
         lessVal = lessVal.addByte(ONE);
         low = lessVal.toString();
-        System.out.print(low + "   ");
         while(low.charAt(0) == '0'){
           low = low.substring(1);
         }
-        System.out.print(high + "  ");
-        System.out.print(low + "  ");
-        System.out.println(ans.toString());
       }
-      return ans;
+      if (isNeg){
+        strAns = "-" + ans.toString();
+      }
+      else{
+        strAns = ans.toString();
+      }
+      return new BrobInt(strAns);
    }
 
   /** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -243,7 +286,62 @@ public class BrobInt {
    *  @return BrobInt that is the product of the value of this BrobInt and the one passed in
    *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
    public BrobInt multiply( BrobInt gint ) {
-      throw new UnsupportedOperationException( "\n         Sorry, that operation is not yet implemented." );
+      boolean isNeg = false;
+      BrobInt count = ZERO;
+      String countStr;
+      BrobInt gint2 = null;
+      BrobInt thisVal = null;
+      BrobInt ans = ZERO;
+      if(sign == 0 && gint.sign == 0){
+        isNeg = false;
+        thisVal = new BrobInt(internalValue);
+        String gintStr = gint.toString();
+        while(gintStr.charAt(0) == '0'){
+          gintStr = gintStr.substring(1);
+        }
+        gint2 = new BrobInt(gintStr);
+      }
+      if(sign == 0 && gint.sign == 1){
+        isNeg = true;
+        thisVal = new BrobInt(internalValue);
+        String gintStr = gint.toString();
+        while(gintStr.charAt(0) == '0' || gintStr.charAt(0) == '-'){
+          gintStr = gintStr.substring(1);
+        }
+        gint2 = new BrobInt(gintStr);
+      }
+      if(sign == 1 && gint.sign == 0){
+        isNeg = true;
+        thisVal = new BrobInt(internalValue.substring(1));
+        String gintStr = gint.toString();
+        while(gintStr.charAt(0) == '0'){
+          gintStr = gintStr.substring(1);
+        }
+        gint2 = new BrobInt(gintStr);
+      }
+      if(sign == 1 && gint.sign == 1){
+        isNeg = false;
+        thisVal = new BrobInt(internalValue.substring(1));
+        String gintStr = gint.toString();
+        while(gintStr.charAt(0) == '0' || gintStr.charAt(0) == '-'){
+          gintStr = gintStr.substring(1);
+        }
+        gint2 = new BrobInt(gintStr);
+      }
+      while(!count.toString().equals(gint2.toString())){
+        ans = ans.addByte(thisVal);
+        count = count.addByte(ONE);
+        countStr = count.toString();
+        while(countStr.charAt(0) == '0'){
+          countStr = countStr.substring(1);
+        }
+        count = new BrobInt(countStr);
+      }
+      if(isNeg){
+        String ansStr = "-" + ans.toString();
+        ans = new BrobInt(ansStr);
+      }
+      return ans;
    }
 
   /** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -252,7 +350,15 @@ public class BrobInt {
    *  @return BrobInt that is the dividend of this BrobInt divided by the one passed in
    *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
    public BrobInt divide( BrobInt gint ) {
-      throw new UnsupportedOperationException( "\n         Sorry, that operation is not yet implemented." );
+      BrobInt n = new BrobInt("0");
+      BrobInt thisVal = new BrobInt(internalValue);
+      if(thisVal.compareTo(gint) < 0){
+        return ZERO;
+      }
+      while(thisVal.subtractByte(n.multiply(gint).divide(gint)) == ZERO){
+        n = n.addByte(ONE);
+      }
+      return n;
    }
 
   /** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -346,9 +452,9 @@ public class BrobInt {
    public static void main( String[] args ) {
       System.out.println( "\n  Hello, world, from the BrobInt program!!\n" );
       System.out.println( "\n   You should run your tests from the BrobIntTester...\n" );
-      BrobInt x = new BrobInt("100");
-      BrobInt y = new BrobInt("34789");
-      BrobInt z = x.subtractByte(y);
+      BrobInt x = new BrobInt("25");
+      BrobInt y = new BrobInt("10");
+      BrobInt z = x.divide(y);
       System.out.println(z.toString());
       System.exit( 0 );
    }
