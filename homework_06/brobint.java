@@ -350,8 +350,21 @@ public class BrobInt {
    *  @return BrobInt that is the dividend of this BrobInt divided by the one passed in
    *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
    public BrobInt divide( BrobInt gint ) {
+      int negvals = 0;
+      if(gint.sign == 1){
+        String buildGint = gint.toString();
+        buildGint = buildGint.substring(1);
+        gint = new BrobInt(buildGint);
+        negvals++;
+      }
       BrobInt n = new BrobInt("0");
       BrobInt thisVal = new BrobInt(internalValue);
+      if(thisVal.sign == 1){
+        String buildVal = thisVal.toString();
+        buildVal = buildVal.substring(1);
+        thisVal = new BrobInt(buildVal);
+        negvals++;
+      }
       if(gint.toString() == ZERO.toString()){
         System.out.println("You can't divide by 0");
         System.exit(1);
@@ -359,8 +372,16 @@ public class BrobInt {
       if(thisVal.compareTo(gint) < 0){
         return ZERO;
       }
-      while(!(thisVal.subtractByte(n.multiply(gint)).compareTo(gint) < 0)){
+      while(!(thisVal.subtractByte(n.multiply(gint)).sign == 1)){
         n = n.addByte(ONE);
+      }
+      if(!n.multiply(gint).equals(thisVal)){
+        n = n.subtractByte(ONE);
+      }
+      if(negvals == 1){
+        String nstr = n.toString();
+        nstr = "-" + nstr;
+        n = new BrobInt(nstr);
       }
       return n;
    }
@@ -371,7 +392,10 @@ public class BrobInt {
    *  @return BrobInt that is the remainder of division of this BrobInt by the one passed in
    *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
    public BrobInt remainder( BrobInt gint ) {
-      throw new UnsupportedOperationException( "\n         Sorry, that operation is not yet implemented." );
+      BrobInt thisVal = new BrobInt(internalValue);
+      BrobInt div = thisVal.divide(gint);
+      BrobInt ans = thisVal.subtractByte(gint.multiply(div));
+      return ans;
    }
 
   /** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -456,9 +480,9 @@ public class BrobInt {
    public static void main( String[] args ) {
       System.out.println( "\n  Hello, world, from the BrobInt program!!\n" );
       System.out.println( "\n   You should run your tests from the BrobIntTester...\n" );
-      BrobInt x = new BrobInt("25");
-      BrobInt y = new BrobInt("0");
-      BrobInt z = x.divide(y);
+      BrobInt x = new BrobInt("27");
+      BrobInt y = new BrobInt("5");
+      BrobInt z = x.remainder(y);
       System.out.println(z.toString());
       System.exit( 0 );
    }
