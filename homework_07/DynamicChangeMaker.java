@@ -6,6 +6,9 @@ public class DynamicChangeMaker{
 	}
 
 	public static Tuple makeChangeWithDynamicProgramming(int [] coins, int amount){
+		if(isInvalid(coins,amount)){
+			return new Tuple(new int[0]);
+		}
 		int [] sortMem = sorter(coins);
 		Arrays.sort(coins);
 		Tuple [] [] solver = new Tuple [coins.length] [amount];
@@ -38,8 +41,21 @@ public class DynamicChangeMaker{
 				}		
 			}
 		}
-		System.out.println(deSort(solver[coins.length-1][amount-1],sortMem).toString());
 		return deSort(solver[coins.length-1][amount-1],sortMem);
+	}
+
+	public static boolean isInvalid(int [] coins, int amount){
+		if (amount < 0){
+			System.out.println("Bad input, please input a positive target amount of money");
+			return true;
+		}
+		for (int i = 0; i < coins.length; i++){
+			if (coins[i] <= 0 || indexOf(coins,coins[i]) != i){
+				System.out.println("Bad input, please insure that all coin values are positive and that there are no repeats");
+				return true;
+			}
+		}
+		return false;
 	}
 
 	public static int [] sorter(int [] coins){
@@ -81,5 +97,4 @@ public class DynamicChangeMaker{
 	public static void main(String [] args){
 		;
 	}
-
 }
